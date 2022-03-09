@@ -39,11 +39,6 @@ info:
   build.artifactId: $project.artifactId$
   build.modelVersion: $project.modelVersion$
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
         
         
 ---
@@ -83,8 +78,3 @@ info:
   build.artifactId: $project.artifactId$
   build.modelVersion: $project.modelVersion$
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
