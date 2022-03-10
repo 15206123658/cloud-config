@@ -9,7 +9,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: config-test-client
+    name: config-test-client22
 
 eureka:
   client:
@@ -22,7 +22,7 @@ server:
 spring:
   profiles: beta
   application:
-    name: config-test-client
+    name: config-test-client22
 
 eureka:
   client:
